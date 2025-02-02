@@ -8,6 +8,10 @@
 #define LAYER_FN 1
 #define LAYER_KEYPAD 2
 
+&lt {
+    flavor = "balanced";
+};
+
 / {
 	keymap {
 		compatible = "zmk,keymap";
