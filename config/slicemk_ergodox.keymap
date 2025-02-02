@@ -23,7 +23,7 @@
 				&kp TAB           &kp Q           &kp W        &kp E          &kp R          &kp T            &kp LPAR         &kp RPAR         &kp Y        &kp U          &kp I           &kp O         &kp P           &kp BACKSLASH
 				&lt LAYER_FN ESC  &kp A           &kp S        &kp D          &kp F          &kp G                                              &kp H        &kp J          &kp K           &kp L         &kp SEMICOLON   &kp SINGLE_QUOTE
 				&kp LSHIFT        &kp Z           &kp X        &kp C          &kp V          &kp B            &kp LBKT         &kp RBKT         &kp N        &kp M          &kp COMMA       &kp PERIOD    &kp SLASH       &kp RSHIFT
-				&mo LAYER_KEYPAD  &none           &kp LEFT_GUI &kp LEFT_ALT   &kp LEFT_CTRL                                                                  &kp MINUS      &kp EQUAL       &none         &none           &none
+				&mo LAYER_KEYPAD  &none           &kp LEFT_GUI &kp LEFT_ALT   &kp LCTRL                                                                      &kp MINUS      &kp EQUAL       &none         &none           &none
 				                                                                             &none            &none            &none            &none
 				                                                              &kp SPACE      &kp F24          &kp HOME         &kp PAGE_UP      &kp LBKT     &kp RETURN
 				                                                                                              &kp END          &mo PAGE_DOWN
